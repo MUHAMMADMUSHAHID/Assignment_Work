@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+ Ensure that react-scripts is installed as a dependency in your project. You can do this by running the following command in your project directory:
+
+ ### 'npm install react-scripts --save'
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
